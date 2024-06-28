@@ -38,3 +38,48 @@ What are the latest hardware and software enhancements in PowerStore's newest re
 9. What are the key advantages of using QLC NAND flash in PowerStore's architecture?
 
 10. How does PowerStore's QoS ensure consistent performance for critical applications?
+
+
+AI
+
+Forums AI questions
+Differentiate RAG use case
+
+19116-mlops-wp
+1)	In what ways has Dell and cnvrg.io optimized MLOps for AI and ML workloads?
+2)	What are top 3 benefits adopting the Dell ecosystem for MLOps and data-driven workloads?
+
+h18903.3-vmware-nvidia-wp
+1)	What are some of the key features of the validated design for virtualizing GPUs for AI with Dell, VMware and Nvidia?
+2)	How can the Dell Customer Solution Center help to test your proof of concept design for AI?
+3)	How does VMware handle traffic-monitoring and load-balancing in a virtualized GPU environment.
+	
+H19396-demand-forecast-wp
+1)	What methodology was behind Dell service teams demand forecasting solution components?
+2)	What set of time series models were used to forecast forward contracts?
+
+
+h19718-dell-managed-services-for-machine-learning-operations-security-white-paper
+1)	What types of security measures are recommended in a customer facility for the Dell managed service for machine learning operations?
+2)	How does Dell handle logs and monitoring of a managed machine learning operations service?
+
+h19804-smart-security-enhancer-white-paper
+1)	What enhancements has Dell added to SupportAssist?
+2)	
+
+h20044-scale-AI-training-and-fine-tuning-with-dell-powerscale-and-poweredge-servers
+1)	How does Dell PowerScale concurrency help AI performance?
+2)	What are some of the findings from the Dell validation of training and fine tuning with PowerEdge and PowerScale?
+3)	What was the outcome of the storage performance of PowerScale in the Dell validation of training and fine tuning with PowerEdge and PowerScale?
+
+
+
+
+
+
+
+
+
+
+
+
